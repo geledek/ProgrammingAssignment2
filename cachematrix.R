@@ -1,7 +1,3 @@
-https://github.com/geledek/ProgrammingAssignment2
-
-082396ae60cd21b956fd80d66e32eb1ab4bc76c1
-
 ## The makeCacheMatrix function creates a special "matrix, which is really a list containing a function to
 ## 1. set the value of the matrix
 ## 2. get the value of the matrix
